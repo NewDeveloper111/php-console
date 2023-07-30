@@ -1,5 +1,6 @@
 {
     "name": "it-for-free/php-console",
+    "bin": ["src/iffcon.php"],
     "description": "Console Component",
     "type": "library",
     "license": "MIT",
